@@ -20,6 +20,7 @@
         >
           GitHub
         </a>
+        <nuxt-link to="/news">Newsサンプル</nuxt-link>
       </div>
     </div>
   </div>

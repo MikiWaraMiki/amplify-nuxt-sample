@@ -48,4 +48,10 @@ export default {
   build: {},
   // BuildDir
   buildDir: 'dist',
+
+  generate: {
+    routes() {
+      return ['news']
+    },
+  },
 }

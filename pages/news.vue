@@ -4,6 +4,7 @@
       <Logo />
       <h1 class="title">nuxt-amplify</h1>
       <h2>News News News News News</h2>
+      <nuxt-link to="/">トップページに戻る</nuxt-link>
     </div>
   </div>
 </template>
